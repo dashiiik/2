@@ -1,0 +1,52 @@
+header{
+    background-color: skyblue;
+    color: white;
+    text-align: center;
+    padding: 3px;
+    font-family: cursive;
+}
+main{
+    background-color: turquoise;
+    color: white;
+    font-family: cursive;
+    border-width: 10px;
+    border-style: double;
+    border-radius: 2px;
+    border-color: lightblue;
+}
+.yuy{
+color: white;
+background-color: lightskyblue;
+text-align: center;
+font-family: cursive;
+}
+div{
+    background-color: hsl(210, 58%, 71%);
+    border-radius: 30px;
+    padding: 20px;
+    width: 210px;
+    color: white;
+    font-family: cursive;
+}
+h2{
+    border-bottom: 3px dashed white;
+}
+.ioi{
+    background-color: hsl(210, 81%, 82%);
+    border-radius: 30px;
+    padding: 20px;
+    width: 210px;
+    color: white;
+    font-family: cursive;
+}
+.iui{
+    background-color: skyblue;
+}
+.tyt{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    background-color: skyblue;
+    border-radius: 20px;
+}
+
